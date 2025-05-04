@@ -27,3 +27,15 @@ Live trading APIs and brokers
 
 [Optional but Powerful] Machine Learning for predictive models
 
+
+3. Platforms to Use (Beginner to Advanced)
+Paper/Demo Trading Platforms (Free to start):
+Platform	Features	Notes
+TradingView	Backtesting, scripting (Pine Script), great for visual learners	Use for strategy testing
+QuantConnect	Python + C#, massive dataset access, backtesting, live trading via brokers	Ideal for pros; great for learning
+Backtrader	Python-based backtesting engine	Lightweight and free
+Alpaca Markets	Offers API for real trading (stocks); commission-free	Easy Python integration
+Binance API	For crypto trading	Great if you want to build crypto algos
+
+Start with TradingView + Backtrader to get your hands dirty.
+
