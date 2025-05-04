@@ -1,0 +1,15 @@
+1. What is Algo Trading?
+Algo (algorithmic) trading involves creating bots that automatically buy/sell financial assets based on predefined rules — faster and more consistently than humans can.
+
+You use data + code to create strategies like:
+
+Momentum trading
+
+Mean reversion
+
+Arbitrage
+
+News-based sentiment analysis
+
+AI/ML prediction-based trading
+
