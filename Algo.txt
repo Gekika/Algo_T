@@ -55,3 +55,21 @@ Backtrader or Zipline for backtesting
 Jupyter Notebook or VS Code for coding
 
 GitHub to store your bots & version control
+
+
+
+5. What to Expect & Timeline
+Phase	Time	Focus
+Learn basics of trading & indicators	2–3 weeks	Study TradingView, YouTube, Investopedia
+Build & backtest simple strategies	1 month	Use Backtrader or QuantConnect
+Run on paper/demo account	2–3 months	Don’t rush into live trading
+Move to live account	After profitable paper results	Start with small capital, monitor daily
+
+Expect:
+80% of your time will be spent debugging and refining strategies.
+
+Most strategies don’t work long-term — expect to iterate.
+
+Even working bots can stop working when market conditions change.
+
+Emotions are still involved — automation ≠ perfect.
