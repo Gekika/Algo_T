@@ -13,3 +13,17 @@ News-based sentiment analysis
 
 AI/ML prediction-based trading
 
+
+2. Core Things You’ll Need to Learn (You already have Python!)
+Knowledge Areas:
+Financial markets 101 (stocks, forex, crypto, etc.)
+ Technical indicators: MACD, RSI, Moving Averages, Bollinger Bands
+
+Backtesting strategies (before risking real money)
+
+Risk management: stop-loss, position sizing
+
+Live trading APIs and brokers
+
+[Optional but Powerful] Machine Learning for predictive models
+
