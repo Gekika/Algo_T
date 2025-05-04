@@ -73,3 +73,41 @@ Most strategies don’t work long-term — expect to iterate.
 Even working bots can stop working when market conditions change.
 
 Emotions are still involved — automation ≠ perfect.
+
+
+Demo Trading: How Long & Why?
+You should run a demo account for at least 2–3 months:
+
+Gives you time to see performance across various market conditions
+
+Helps you test risk management and execution logic
+
+Ensures your bot doesn't make costly mistakes
+
+Only go live when your strategy:
+
+Has consistent profits
+
+Handles edge cases (e.g., extreme volatility)
+
+Has been tested in different environments (bullish, bearish, sideways)
+
+
+
+
+7. Good Beginner Strategies to Learn/Create
+Strategy	Description	Complexity
+Moving Average Crossover	Buy when short MA > long MA; sell when it crosses below	Basic
+RSI Mean Reversion	Buy when RSI < 30 (oversold), sell when RSI > 70 (overbought)	Basic
+MACD Momentum	Buy/sell based on MACD crossovers	Medium
+Breakout Strategy	Buy when price breaks resistance with volume	Medium
+Machine Learning Classifier	Predict next movement (up/down) using historical features	Advanced
+
+Learning Resources
+QuantConnect Bootcamp
+
+Algo Trading with Python - Coursera/YouTube
+
+Investopedia (for financial literacy)
+
+Backtrader documentation + GitHub examples
