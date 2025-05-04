@@ -39,3 +39,19 @@ Binance API	For crypto trading	Great if you want to build crypto algos
 
 Start with TradingView + Backtrader to get your hands dirty.
 
+
+
+4. Tools You’ll Need to Know
+Python libraries:
+
+pandas, numpy for data manipulation
+
+matplotlib/plotly for visualization
+
+TA-Lib / bt for technical indicators
+
+Backtrader or Zipline for backtesting
+
+Jupyter Notebook or VS Code for coding
+
+GitHub to store your bots & version control
